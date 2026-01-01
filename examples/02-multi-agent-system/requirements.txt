@@ -1,0 +1,8 @@
+# 멀티 에이전트 시스템 예제 의존성
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+langsmith>=0.1.0
+tavily-python>=0.3.0
+python-dotenv>=1.0.0
